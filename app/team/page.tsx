@@ -9,7 +9,7 @@ import Footer from "@/components/Footer"
 const teamMembers = [
   {
     name: "Amir Shapkota",
-    role: "Co-Founder",
+    role: "Co-Founder & CEO",
     bio: "Serial entrepreneur with a passion for fintech and digital innovation. Focused on transforming payments with Tapyze.",
     image: "/amir.jpeg",
     linkedin: "#",
@@ -18,7 +18,7 @@ const teamMembers = [
   },
   {
     name: "Sachee Ghimire",
-    role: "Co-Founder",
+    role: "Co-Founder & CTO",
     bio: "Tech visionary with a background in software engineering and product development. Dedicated to building seamless backend experiences.",
     image: "/sachee.jpeg",
     linkedin: "#",
