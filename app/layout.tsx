@@ -10,6 +10,7 @@ export const metadata: Metadata = {
   description:
     "Revolutionary digital wallet with tap-to-pay technology. Affordable NFC solutions for businesses of all sizes.",
   keywords: "digital wallet, NFC payments, tap to pay, payment solutions, mobile payments",
+  icons: "/logo.png",
 }
 
 export default function RootLayout({
